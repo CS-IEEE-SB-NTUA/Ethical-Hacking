@@ -1,0 +1,3 @@
+[submodule "NullconCTF-2023"]
+	path = NullconCTF-2023
+	url = https://github.com/CS-IEEE-SB-NTUA/NullconCTF_IEEEFTW
